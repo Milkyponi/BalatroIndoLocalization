@@ -10,7 +10,9 @@ Opsi Otomatis:
 - Buka folder 'scripts', lalu jalankan 'PASANG_OTOMATIS_WINDOWS.bat'.
 
 Opsi Manual:
-- Tekan tombol Win + R, ketik '%AppData%\Balatro', lalu tekan Enter.
+- Tekan tombol Win + R di keyboard, ketik: %AppData%\Balatro lalu tekan Enter.
+  (Variabel %AppData% di Windows secara otomatis langsung membuka folder AppData\Roaming.
+   Jika mencari manual via drive C: C:\Users\<Username>\AppData\Roaming\Balatro).
 - Buat folder bernama 'localization' jika belum ada.
 - Salin file 'id.lua' dan 'en-us.lua' dari folder 'localization' ke folder tersebut.
 

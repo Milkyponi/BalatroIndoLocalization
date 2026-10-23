@@ -39,8 +39,10 @@ Proyek ini memfokuskan penerjemahan pada deskripsi seluruh kartu Joker, mekanism
 
 ### Windows
 1. Jalankan skrip `scripts/PASANG_OTOMATIS_WINDOWS.bat`, atau:
-2. Buka Windows Explorer, tekan `Win + R`, ketik `%AppData%\Balatro`, lalu tekan `Enter`.
-3. Salin folder `localization` dari repositori ini ke dalam direktori `%AppData%\Balatro\`.
+2. Pemasangan Manual:
+   - Tekan `Win + R`, ketik `%AppData%\Balatro` lalu tekan `Enter`.
+   - *(Catatan: Di Windows, variabel `%AppData%` otomatis langsung membuka folder `AppData\Roaming`. Jika membuka manual dari drive C, jalurnya adalah `C:\Users\<Username>\AppData\Roaming\Balatro`)*.
+3. Salin folder `localization` ke dalam direktori tersebut.
 4. Buka Balatro melalui Steam.
 5. Pada Menu Utama, klik tombol bahasa di pojok kanan bawah, pilih **Bahasa Indonesia**, lalu konfirmasi.
 

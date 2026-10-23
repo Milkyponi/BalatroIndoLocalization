@@ -1,0 +1,32 @@
+PANDUAN PEMASANGAN MOD LOKALISASI BALATRO (BAHASA INDONESIA)
+=============================================================
+
+Ringkasan:
+Mod ini melokalisasi teks kartu Joker (150 kartu), penjelasan item toko (Vouchers & Booster Packs), serta tombol navigasi antarmuka ke dalam Bahasa Indonesia sehari-hari.
+
+1. PEMASANGAN WINDOWS
+----------------------
+Opsi Otomatis:
+- Buka folder 'scripts', lalu jalankan 'PASANG_OTOMATIS_WINDOWS.bat'.
+
+Opsi Manual:
+- Tekan tombol Win + R, ketik '%AppData%\Balatro', lalu tekan Enter.
+- Buat folder bernama 'localization' jika belum ada.
+- Salin file 'id.lua' dan 'en-us.lua' dari folder 'localization' ke folder tersebut.
+
+2. PEMASANGAN LINUX / STEAM DECK
+--------------------------------
+Opsi Otomatis:
+- Buka terminal, masuk ke folder 'scripts', lalu jalankan:
+  chmod +x PASANG_OTOMATIS_LINUX.sh && ./PASANG_OTOMATIS_LINUX.sh
+
+Opsi Manual:
+- Salin folder 'localization' ke direktori:
+  ~/.steam/steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/
+
+3. PENGATURAN DALAM GAME
+------------------------
+- Buka Balatro melalui Steam.
+- Pada Menu Utama, klik tombol Bahasa di pojok kanan bawah.
+- Pilih 'Bahasa Indonesia', lalu klik Konfirmasi.
+- Teks game akan langsung beralih ke Bahasa Indonesia.

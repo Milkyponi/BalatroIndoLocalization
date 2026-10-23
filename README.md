@@ -2,6 +2,12 @@
   <img src="assets/banner.jpg" alt="Balatro Indonesian Localization Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/Milkyponi/BalatroIndoLocalization/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0-blue?style=for-the-badge" alt="Release"></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%28Steam%20Deck%29-23496d?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Balatro-Compatible-red?style=for-the-badge" alt="Game Version">
+</p>
+
 # Balatro Indonesian Localization Mod
 
 Modifikasi lokalisasi Bahasa Indonesia untuk game **Balatro** (PC / Steam / Steam Deck). 

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Balatro Indonesian Localization Banner" width="100%">
+</p>
+
 # Balatro Indonesian Localization Mod
 
 Modifikasi lokalisasi Bahasa Indonesia untuk game **Balatro** (PC / Steam / Steam Deck). 
